@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33486
     wikipedia: http://en.wikipedia.org/wiki/Helen_Barrett_Montgomery
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28690#The-Empire-of-the-East
 gutenberg_issued: '2009-05-04'
 gutenberg_type: Text
 identifiers:
